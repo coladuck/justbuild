@@ -1,0 +1,14 @@
+{
+   "description": {
+      "message": "1v1 LOL (justbuild) cool browser building training simulator. Practice your battle royale skills with justbuild lol"
+   },
+   "have_it_installed": {
+      "message": "You already have it installed."
+   },
+   "name": {
+      "message": "1v1 LOL"
+   },
+   "play_now": {
+      "message": "Play now"
+   }
+}
